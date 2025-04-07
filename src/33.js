@@ -1,0 +1,3 @@
+let $ = window.jQuery;
+
+// Your Node.js code here...
